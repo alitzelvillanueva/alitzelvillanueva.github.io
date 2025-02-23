@@ -33,18 +33,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -53,21 +41,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
-author:
-  name   : "Alitzel Villanueva"
-  avatar : "/assets/images/IMG_6073.jpeg"
-  bio    : "Ph.D. Student in Ecology, Evolution, and Marine Biology at UC Santa Barbara"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.hofmannlab.com/people/alitzel-villanueva"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/alitzelvillanueva"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/axvillanueva"
 
 footer:
   links:
