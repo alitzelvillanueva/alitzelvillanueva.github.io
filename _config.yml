@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Alitzel Villanueva"
   avatar : "/assets/images/IMG_6073.jpeg"
   bio    : "Ph.D. Student in Ecology, Evolution, and Marine Biology at UC Santa Barbara"
   links:
