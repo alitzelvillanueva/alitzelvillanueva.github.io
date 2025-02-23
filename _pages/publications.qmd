@@ -1,0 +1,10 @@
+---
+title: "Publications"
+page-layout: full
+toc: true
+format:
+  html:
+    css: tabs.css
+
+editor: source
+---
