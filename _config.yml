@@ -37,6 +37,19 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+author:
+  avatar : "/assets/images/IMG_6073.jpeg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.hofmannlab.com/people/alitzel-villanueva"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/alitzelvillanueva"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/axvillanueva"
+      
 footer:
   links:
     - label: "GitHub"
